@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSO.Database", "PSO.Database.csproj", "{A6C0065E-4423-4551-968D-68FB2F83292D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6C0065E-4423-4551-968D-68FB2F83292D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6C0065E-4423-4551-968D-68FB2F83292D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6C0065E-4423-4551-968D-68FB2F83292D}.Debug|x64.ActiveCfg = Debug|x64
+		{A6C0065E-4423-4551-968D-68FB2F83292D}.Debug|x64.Build.0 = Debug|x64
+		{A6C0065E-4423-4551-968D-68FB2F83292D}.Debug|x86.ActiveCfg = Debug|x86
+		{A6C0065E-4423-4551-968D-68FB2F83292D}.Debug|x86.Build.0 = Debug|x86
+		{A6C0065E-4423-4551-968D-68FB2F83292D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6C0065E-4423-4551-968D-68FB2F83292D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6C0065E-4423-4551-968D-68FB2F83292D}.Release|x64.ActiveCfg = Release|x64
+		{A6C0065E-4423-4551-968D-68FB2F83292D}.Release|x64.Build.0 = Release|x64
+		{A6C0065E-4423-4551-968D-68FB2F83292D}.Release|x86.ActiveCfg = Release|x86
+		{A6C0065E-4423-4551-968D-68FB2F83292D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1544CCA-CC60-430A-822D-26EBB3D502A0}
+	EndGlobalSection
+EndGlobal

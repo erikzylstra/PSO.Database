@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PSO.Database.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DatabaseDLL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\\Oracle\\product\\11.2.0\\client_1\\ODP.NET\\bin\\2.x\\Oracle.DataAccess.dll</Value>
+    </Setting>
+    <Setting Name="TimeoutSeconds" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
